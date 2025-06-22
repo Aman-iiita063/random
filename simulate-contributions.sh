@@ -2,7 +2,7 @@
 
 # Customize the time range
 START_DATE="2024-07-01"
-END_DATE="2024-12-31"
+END_DATE="2025-05-30"
 
 # Number of days to randomly pick commits per week
 DAYS_PER_WEEK=2-5
