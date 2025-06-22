@@ -1,7 +1,7 @@
 #!/bin/bash
 
 START_DATE="2024-07-01"
-END_DATE="2024-12-30"
+END_DATE="2025-05-05"
 TOUCH_FILE="contributions.txt"
 
 git init
